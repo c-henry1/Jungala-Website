@@ -108,7 +108,7 @@ a:hover {
     border-bottom: rgb(255, 92, 43) 1px  solid  !important;
 }
 
-.vid-wrap iframe {
+.vid-wrap video {
     width: 100%;
     position: absolute;
     height: 100%;
